@@ -1,0 +1,24 @@
+.center {
+  text-align: center;
+}
+.box {
+  /* border: 3px solid black; */
+  background-color: #ff99ff;
+  width: 95%;
+  /* height: 200px; */
+  margin: 25px;
+  /*margin-right: auto;
+	margin-left: auto;*/
+  overflow: hidden;
+  /*margin-top: auto;*/
+}
+.bold {
+  font-weight: bold;
+}
+p {
+  margin: 10px;
+}
+
+.yellow {
+  background-color: yellow;
+}
